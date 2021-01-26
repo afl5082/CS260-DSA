@@ -2,8 +2,8 @@
 // Name        : HashTable.cpp
 // Author      : Adam LaCaria
 // Version     : 1.0
-// Copyright   : Copyright © 2017 SNHU COCE
-// Description : Hello World in C++, Ansi-style
+// Copyright   : Copyright Â© 2017 SNHU COCE
+// Description : Hash Tables 
 //============================================================================
 
 #include <algorithm>
